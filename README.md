@@ -1,4 +1,4 @@
-# Cognitive-Assignment-2
+# Cognitive-Assignment
 ImageNet
 PPT Link: https://prezi.com/view/qOztvvCr7YhhgE0AFhbv/
 
